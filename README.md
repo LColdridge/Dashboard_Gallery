@@ -1,1 +1,1 @@
-# PowerBI Dashboards
+# Dashboards Gallery
