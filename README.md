@@ -15,4 +15,4 @@
 ---
 
 ![Pokemon](https://user-images.githubusercontent.com/124378648/231009672-b9a4536d-7d8c-40f2-9052-37c7e64f13d8.gif)
-[_Pokemon Dataset_](https://github.com/LColdridge/Dashboard_Gallery/blob/main/pokemon.xlsx](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420) - Dashboard created Feb 2023
+[_Pokemon Dataset_](https://www.kaggle.com/datasets/mariotormo/complete-pokemon-dataset-updated-090420) - Dashboard created Feb 2023
