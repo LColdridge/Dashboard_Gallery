@@ -5,10 +5,10 @@
 ---
 
 ![Superstore](https://user-images.githubusercontent.com/124378648/230907066-adb79537-0ffb-4e01-b00e-0a1b2a1b0263.gif)
-_Superstore - Created: Feb 2023_
+[_Superstore Dataset_](https://github.com/LColdridge/Dashboard_Gallery/blob/main/sample_-_superstore.xls) - Dashboard created Feb 2023
 
 ---
 
 ![Weather](https://user-images.githubusercontent.com/124378648/230908378-5775c349-83ce-489d-9fc1-df7015b56fce.gif)
-_Weather - Created: Feb 2023_
+[_Weather_](https://github.com/LColdridge/Dashboard_Gallery/blob/main/weather_data.xlsx) - Dashboard created Feb 2023
 
