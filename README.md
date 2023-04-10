@@ -1,6 +1,6 @@
 
 ![Netflix Movies](https://user-images.githubusercontent.com/124378648/230902986-c08b0d0d-2a79-4dc6-809c-001aadfd3c74.gif)
-[_Netflix Dataset_](https://github.com/LColdridge/Dashboard_Gallery/blob/main/netflix_titles.xlsx) - Dashboard created March 2023
+[_Netflix Dataset_](https://www.kaggle.com/datasets/shivamb/netflix-shows) - Dashboard created March 2023
   
 ---
 
