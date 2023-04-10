@@ -10,5 +10,9 @@
 ---
 
 ![Weather](https://user-images.githubusercontent.com/124378648/230908378-5775c349-83ce-489d-9fc1-df7015b56fce.gif)
-[_Weather_](https://github.com/LColdridge/Dashboard_Gallery/blob/main/weather_data.xlsx) - Dashboard created Feb 2023
+[_Weather Dataset_](https://github.com/LColdridge/Dashboard_Gallery/blob/main/weather_data.xlsx) - Dashboard created Feb 2023
 
+---
+
+![Pokemon](https://user-images.githubusercontent.com/124378648/231009672-b9a4536d-7d8c-40f2-9052-37c7e64f13d8.gif)
+[_Pokemon Dataset_](https://github.com/LColdridge/Dashboard_Gallery/blob/main/pokemon.xlsx) - Dashboard created Feb 2023
